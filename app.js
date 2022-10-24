@@ -1,1 +1,1 @@
-"Rodando o sistema de gerenciamento de jogos"
+Rodando o sistema de gerenciamento de jogos
