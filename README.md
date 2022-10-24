@@ -1,11 +1,9 @@
 
-# CURSO ALURA
+# Projeto curso Alura
 
->Projeto Git e GitHub
+>O projeto consiste-se em aprender o passo a passo de como manusear as ferramentas do Git e GitHub  
 
 ```
 Aprendendo Passo a Passo
 ```
 
-Um mago nunca se atrasa, nem chega adiantado, ele chega na hora que quer chegar
-=
